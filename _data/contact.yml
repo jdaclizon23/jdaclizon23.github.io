@@ -4,12 +4,12 @@
   icon: "fab fa-github"
 
 - type: linkedin
-  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url: https://www.linkedin.com/in/jovanie-daclizon-b752a4189                  # Fill with your Linkedin homepage
+  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
+  url: https://www.linkedin.com/in/jovanie-daclizon-b752a4189 # Fill with your Linkedin homepage
 
 - type: threads
-  icon: 'fa-brands fa-threads'
-  url: 'https://www.threads.com/@jdaclizon?hl=en'                   # Fill with your Threads profile link
+  icon: "fa-brands fa-threads"
+  url: "https://www.threads.com/@jdclzn?hl=en" # Fill with your Threads profile link
 
 - type: email
   icon: "fas fa-envelope"
